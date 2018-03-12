@@ -1,4 +1,4 @@
-# The course description:
+# The course description
 
 Poor reproducibility of research findings is largely caused by poor documentation of data analysis steps and lack of data governance. Commonly used point-and-click spreadsheet-based data analysis tools, where raw data is mixed with summaries, formulas, and graphics, make data analysis pipeline error prone and difficult to debug. 
 
