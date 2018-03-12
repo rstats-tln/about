@@ -1,2 +1,9 @@
-# about
-The course description
+# The course description:
+
+Poor reproducibility of research findings is largely caused by poor documentation of data analysis steps and lack of data governance. Commonly used point-and-click spreadsheet-based data analysis tools, where raw data is mixed with summaries, formulas, and graphics, make data analysis pipeline error prone and difficult to debug. 
+
+This course introduces R and version control as a tool for reproducible data analysis and collaboration. We start from the very beginning by giving introduction to R, and how it is used as an calculator and what kind of data types and shapes it uses. Then we go straight on with visualization and transformation of preprepared data. Then we learn how to import your own datasets into R and how to export your data analysis artifacts, cleaned up tables and figures. We focus on data exploration, not on statistical inference. Emphasis is placed on a consistent syntax (with tools from the tidyverse), reproducibility (with R Markdown) and version control and collaboration (with git/GitHub). Each participant should have a personal laptop computer with capability to connect to WiFi. We plan to use cloud based R user interface provided by RCloud, so local installation of R or Rstudio is only highly suggested, but we are not going to do debbugging of your local R etc. installation in class. 
+
+The course is aimed at the PhD students from different backgrounds ready to do some coding. Previous R experience is not necessary, but when considering taking the course, installing R and RStudio into your computer is highly recommended. It is also highly desirable to have your own (possibly problematic) data at hand.
+
+*The course is organized by the Graduate School in Biomedicine and biotechnology and Graduate School in Clinical Medicine created under the auspices of the European Regional Development Fund (ASTRA “TTÜ arenguprogramm aastateks 2016-2022”, project: 2014-2020.4.01.16-0032).*
